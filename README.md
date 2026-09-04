@@ -18,6 +18,6 @@ Classifies Iris flowers into 3 species (Setosa, Versicolor, Virginica) based on 
 - README.md - Project documentation
 
  👩‍💻 Author
-Siri | CodeAlpha Internship 2026
+Dhanushree| CodeAlpha Internship 2026
 
 codealpha machinelearning datascience python 
