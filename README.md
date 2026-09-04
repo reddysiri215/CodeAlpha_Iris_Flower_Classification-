@@ -1,23 +1,23 @@
-# 🌸 CodeAlpha Task 1 - Iris Flower Classification
+ 🌸 CodeAlpha Task 1 - Iris Flower Classification
 
 
-## 📌 Overview
+📌 Overview
 Classifies Iris flowers into 3 species (Setosa, Versicolor, Virginica) based on sepal & petal measurements.
 
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 - Python, Pandas, Scikit-learn
 
-## 🧠 Model Details
+ 🧠 Model Details
 - Algorithm: RandomForestClassifier
 - Train-Test Split: 80-20
 - Accuracy: 100%
 - Dataset: 150 samples
 
-## 📂 Files
-- Iris_classification.ipynb - Main Colab notebook
+ 📂 Files
+- Iris_classification.py - Main python code
 - README.md - Project documentation
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 Siri | CodeAlpha Internship 2026
 
-#codealpha #machinelearning #datascience #python 
+codealpha machinelearning datascience python 
